@@ -1,6 +1,0 @@
-Datasets:
-
-matchedpnts-maha-wreplace_final.dta: https://www.dropbox.com/s/wrsj68ghqn66nsp/matchedpnts-maha-wreplace_final.dta?dl=0
-matches_coop.dta: https://www.dropbox.com/s/rp3nj0dp6lastd7/matches_coop.dta?dl=0
-onetree_data_eji021114v2.dta: https://www.dropbox.com/s/3ntkbxtxu8vj620/onetree_data_eji021114v2.dta?dl=0
-onetree_data_priv021114v2.dta: https://www.dropbox.com/s/r5gh73pfl0ugsjw/onetree_data_priv021114v2.dta?dl=0
